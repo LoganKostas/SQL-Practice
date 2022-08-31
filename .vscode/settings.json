@@ -1,0 +1,23 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "Movie_Theater",
+            "connectString": "postgres://jvlwifqe:vt51ckLTVDEstxxlI-VcXrPi4Ul6DaBa@heffalump.db.elephantsql.com/jvlwifqe"
+        }
+    ]
+}
